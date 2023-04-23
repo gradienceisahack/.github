@@ -1,5 +1,3 @@
-# The webiste have moved to https://gradienceteam.github.io/hack.html, this org is there only as archive
-
 <div align="center">
   <a href="https://github.com/GradienceTeam/Gradience">
     <img src="https://github.com/GradienceTeam/Design/blob/main/Covers/cover.png" alt="Cover">
@@ -12,5 +10,8 @@
   </p>
   </h4>
   
-##### [usegradience.github.io](https://usegradience.github.io) and [gradienceisahack.github.io](https://gradienceisahack.github.io)
+## This org is now an archive, the website is now hosted [here](https://github.com/GradienceTeam/GradienceTeam.github.io)
+
+  ##### [usegradience.github.io](https://usegradience.github.io) and [gradienceisahack.github.io](https://gradienceisahack.github.io)
 </div>
+
