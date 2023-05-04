@@ -10,7 +10,7 @@
   </p>
   </h4>
   
-## This org is now an archive, the website is now hosted [here](https://github.com/GradienceTeam/GradienceTeam.github.io/hack)
+## This org is now an archive, the website is now hosted [here](https://github.com/GradienceTeam/GradienceTeam.github.io)
 
   ##### [usegradience.github.io](https://usegradience.github.io) and [gradienceisahack.github.io](https://gradienceisahack.github.io)
 </div>
